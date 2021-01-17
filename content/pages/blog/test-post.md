@@ -10,6 +10,7 @@ image_alt: lorem-ipsum
 image_position: top
 layout: post
 thumb_image: images/MM7_0297.jpg
+image: images/MM7_0297.jpg
 ---
 ## Lorem ipsum
 
