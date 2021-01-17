@@ -1,6 +1,6 @@
 ---
 title: Щось там про котів
-subtitle: lorem-ipsum
+subtitle: ну ви поняли
 date: '2021-01-17'
 categories: []
 tags: []
